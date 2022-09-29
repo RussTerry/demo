@@ -1,2 +1,2 @@
 # demo
-learning exercise
+learning exercise!
